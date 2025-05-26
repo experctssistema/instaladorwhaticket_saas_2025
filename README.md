@@ -1,6 +1,6 @@
 # Instalador Whaticket SaaS
 
-Caso tenha queira comprar o projeto. Contato: (94) 99110-7334
+Caso tenha queira comprar o projeto. Contato zap: (94) 99110-7334
 
 ## Requisitos
 
