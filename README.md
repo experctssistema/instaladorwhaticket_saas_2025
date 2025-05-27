@@ -8,7 +8,7 @@ apt-get update & apt-get upgrade -y
 
 Depois rode o comando abaixo
 
-sudo apt install -y git && git clone https://github.com/experctssistema/instaladorwhaticket_saas_2025.git && sudo chmod -R 777 instaladorwhaticket_saas_2025 && cd instaladorwhaticket_saas_2025 && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/experctssistema/instaladorwhaticketsaas_outros_2025.git && sudo chmod -R 777 instaladorwhaticketsaas_outros_2025 && cd instaladorwhaticketsaas_outros_2025 && sudo ./install_primaria
 
 ## Requisitos
 
